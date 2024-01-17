@@ -1,14 +1,14 @@
-# Privacy Policy for [Your App Name]
+# Privacy Policy for Lira Exchange Pro
 
-**Effective Date:** [Date]
+**Effective Date:** 01/01/2024
 
 ## 1. Introduction
 
-Welcome to [Your App Name]! This Privacy Policy is designed to inform you about how we handle your data when you use our mobile app. By using our app, you agree to the terms outlined in this policy.
+Welcome to Lira Exchange Pro! This Privacy Policy is designed to inform you about how we handle your data when you use our mobile app. By using our app, you agree to the terms outlined in this policy.
 
 ## 2. Information We Do Not Collect
 
-We want to make it clear that [Your App Name] does not collect any personal information from the user. We do not request, store, or process any data that can personally identify you.
+We want to make it clear that Lira Exchange Pro does not collect any personal information from the user. We do not request, store, or process any data that can personally identify you.
 
 ## 3. Non-Personal Information
 
