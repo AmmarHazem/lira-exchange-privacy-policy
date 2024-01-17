@@ -28,4 +28,4 @@ We reserve the right to update this Privacy Policy as needed. Any changes will b
 
 ## 7. Contact Us
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions or concerns about our Privacy Policy, please contact us at fadi.khalil350828@gmail.com.
